@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> www.kyndryl.com Learning</h1>
+<h2> Corporate Website Stage</h2>
+<h2> Hello World! We are world's Biggest Infrastructure service company.Thankyou</h2>
